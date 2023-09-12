@@ -1,25 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\asus\\source\\repos\\TheMoatWeak\\TheMoatWeak\\TheMoatWeak.csproj": {}
+    "C:\\Users\\CChotiphat\\Documents\\The-moat-week\\ForCode\\TheMoatWeak\\TheMoatWeak\\TheMoatWeak.csproj": {}
   },
   "projects": {
-    "C:\\Users\\asus\\source\\repos\\TheMoatWeak\\TheMoatWeak\\TheMoatWeak.csproj": {
+    "C:\\Users\\CChotiphat\\Documents\\The-moat-week\\ForCode\\TheMoatWeak\\TheMoatWeak\\TheMoatWeak.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\asus\\source\\repos\\TheMoatWeak\\TheMoatWeak\\TheMoatWeak.csproj",
+        "projectUniqueName": "C:\\Users\\CChotiphat\\Documents\\The-moat-week\\ForCode\\TheMoatWeak\\TheMoatWeak\\TheMoatWeak.csproj",
         "projectName": "TheMoatWeak",
-        "projectPath": "C:\\Users\\asus\\source\\repos\\TheMoatWeak\\TheMoatWeak\\TheMoatWeak.csproj",
-        "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\asus\\source\\repos\\TheMoatWeak\\TheMoatWeak\\obj\\",
+        "projectPath": "C:\\Users\\CChotiphat\\Documents\\The-moat-week\\ForCode\\TheMoatWeak\\TheMoatWeak\\TheMoatWeak.csproj",
+        "packagesPath": "C:\\Users\\CChotiphat\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\CChotiphat\\Documents\\The-moat-week\\ForCode\\TheMoatWeak\\TheMoatWeak\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\CChotiphat\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -69,7 +72,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     }
